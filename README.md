@@ -5,7 +5,7 @@ I'm a dedicated web developer who loves crafting accessible, modern, and efficie
 
 - 🔭 Currently building React apps with Tailwind, Typescript and Next.js
 - 🌱 Improving accessibility skills and diving deeper into backend architecture
-- 🎯 Passionate about clean design, user-first thinking, and developer productivity
+- 🎯 Passionate about responsive, accessible, and user-centered design.
 - 🧠 Love learning through real projects [check out my Frontend Mentor challenges!](https://www.frontendmentor.io/profile/KapteynUniverse)
 - 💬 Feel free to ask me about frontend performance, accessibility, or full-stack workflows
 
