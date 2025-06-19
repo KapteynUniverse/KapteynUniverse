@@ -11,7 +11,7 @@ I'm a dedicated web developer who loves crafting accessible, modern, and efficie
 
 ### 🔗 Connect with me
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asilcan-toper-46a437207/) 
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asilcan-toper/) 
 
 ### 🛠️ Languages & Tools
 
